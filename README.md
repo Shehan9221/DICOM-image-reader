@@ -14,9 +14,6 @@ Designed for radiography students and medical imaging enthusiasts.
 - pydicom – DICOM file handling
 - NumPy – Pixel data processing
 
-## Screenshots
-*(Insert screenshots of your GUI here)*
-
 ## How to Run
 1. Clone the repo:
    ```bash
