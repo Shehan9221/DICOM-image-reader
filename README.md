@@ -20,5 +20,5 @@ Designed for radiography students and medical imaging enthusiasts.
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/dicom-image-reader.git
+   git clone https://github.com/Shehan9221/dicom-image-reader.git
    cd dicom-image-reader
